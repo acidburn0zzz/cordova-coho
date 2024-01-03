@@ -13,7 +13,7 @@
     "optimist": "0.4",
     "q": "~0.9",
     "request": "2.22.0",
-    "shelljs": "0.1.4"
+    "shelljs": "0.8.5"
   },
   "repository": {
     "type": "git",
